@@ -1,1 +1,0 @@
-Dataset,Model Arch,Mode,Epsilon,Query Budget,Inference Batch Size,Direction Batch Size,Max Push Attempts,Push Step Size Factor,Total Images,Attacked/Clean Misclassified,Margin pushed percentage,ASR,Epsilon ASR,Adv Acc,L2 Avg,L∞ Avg,SSIM Avg,PSNR Avg,LPIPS Avg,Queries Avg (All),Queries Avg (Success),Total Time (s),GPU Peak Memory (GB)
